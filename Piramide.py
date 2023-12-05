@@ -10,3 +10,8 @@ def triangulo(n):
 
 numero = int(input("indica un numero: "))
 print(triangulo(numero))
+
+print("h")
+print("o")
+print("l")
+print("a")
